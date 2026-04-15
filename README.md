@@ -70,7 +70,7 @@ A Convolutional Neural Network (CNN) was implemented using the Keras Functional 
 <img width="853" height="766" alt="image" src="https://github.com/user-attachments/assets/b4ec719d-ee6b-4271-8cd6-4c74a64e8dbc" />
 
 
-XAI Analysis
+### XAI Analysis
 <img width="967" height="520" alt="Screenshot 2026-04-15 154734" src="https://github.com/user-attachments/assets/190ecacb-20d0-49bb-b900-6411612f8d65" />
 <img width="484" height="733" alt="image1" src="https://github.com/user-attachments/assets/76772107-fd43-4c55-a859-db8787751a87" />
 
