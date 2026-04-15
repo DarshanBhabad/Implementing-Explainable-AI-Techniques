@@ -66,13 +66,15 @@ A Convolutional Neural Network (CNN) was implemented using the Keras Functional 
 
 ## 📈 Results & Visualizations
 ### Model Performance
-**Accuracy:** ~XX% (Enter your test accuracy here)
+<img width="613" height="363" alt="3" src="https://github.com/user-attachments/assets/8831b999-0a24-466e-8508-93990c534b5e" />
+<img width="853" height="766" alt="image" src="https://github.com/user-attachments/assets/b4ec719d-ee6b-4271-8cd6-4c74a64e8dbc" />
 
-**F1-Score:** ~X.XX (Enter your macro-avg F1 here)
 
 XAI Analysis
-!(Screenshot 2026-04-15 154734.png)
-!()
+<img width="967" height="520" alt="Screenshot 2026-04-15 154734" src="https://github.com/user-attachments/assets/190ecacb-20d0-49bb-b900-6411612f8d65" />
+<img width="484" height="733" alt="image1" src="https://github.com/user-attachments/assets/76772107-fd43-4c55-a859-db8787751a87" />
+
+
 
 Grad-CAM: Shows the model correctly identifies structural features (like wings for airplanes).
 
